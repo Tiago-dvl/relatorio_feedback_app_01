@@ -1,0 +1,13 @@
+Fonte: https://powerbi.microsoft.com/pt-br/blog/how-to-design-visually-stunning-reports/
+
+Miguel iniciou sua apresentação reiterando um ponto que já será familiar a muitos analistas: a parte mais importante de qualquer relatório é a coleta e preparação dos dados. Esse trabalho pode acontecer “atrás da tela”, mas nenhuma quantidade de espaço em branco e cores complementares podem superar dados ruins. Dito isto, dados bem preparados serão absolutamente aprimorados por um trabalho de design cuidadoso e atraente.
+
+O primeiro passo em qualquer grande design de dados é escolher o formato correto, ou nas palavras de Miguel, “O que seu público quer é o que você tem que criar”. Imagine quem estará olhando para o seu relatório e o que eles esperam obter dele. Por exemplo, um CEO provavelmente está muito ocupado e não está intimamente familiarizado com o trabalho de sua equipe, portanto, um relatório com texto explicativo ou um infográfico com muitas imagens são formatos ideais. Um público de colegas analistas do Power BI, por outro lado, provavelmente deseja mais detalhes, portanto, painéis interativos com segmentações são o formato preferido.
+
+Miguel então expôs suas “10 regras para projetar no Power BI”, com orientações úteis para criar relatórios e painéis de ótima aparência, principalmente para analistas com pouca experiência em design gráfico. As regras incluíam:
+
+Desenhe um esboço primeiro. Não importa qual ferramenta você usa – Excel, PowerPoint ou até mesmo papel e caneta são todas as opções – mas esboce suas ideias antes de colocar qualquer coisa.
+Melhore as partes importantes. Mesmo com seis ou menos elementos em uma página de relatório, você ainda deseja guiar o olhar do espectador para as métricas críticas. Destaque partes importantes do seu relatório com uma cor brilhante ou um ícone de resumo.
+Selecione o fundo certo. De acordo com  Miguel, um fundo branco fará com que sua apresentação pareça “limpa” e profissional, um fundo preto chamará a atenção para destaques coloridos e a imagem HD certa no fundo pode adicionar muito sentimento.
+
+Não importa quem é seu público ou que tipo de visual você está usando, a lição mais importante é pensar em cada decisão. “Quando você cria um relatório”, diz Miguel, “você precisa criar cada elemento com um propósito em mente”. Não deixe apenas o medidor no canto – pense no motivo pelo qual ele vai para lá e como ele parecerá para o seu público.
