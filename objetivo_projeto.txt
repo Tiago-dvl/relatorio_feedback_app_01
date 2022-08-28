@@ -1,0 +1,58 @@
+Aqui deve conter
+-resumo passo a passo do projeto
+-programas utilizados
+-habilidades adiquiridas e aprimoradas
+-competências adiquiridas e aprimoradas
+-insights
+
+>>> Resumo do Mini Projeto <<< --------------------------------------------
+#Objetivo: Desenvolver um relatório em PowerBI com Insights sobre Feedback de Usuários, utilizando PostgreSQL, PowerBI, e Modelagem de Dados.
+
+#Sequência
+1º Criar um servidor de banco dados PostgreSQL
+2º Criar as tabelas que receberão os dados
+3º Transferir os dados da planilha para o banco de dados
+4º Conectar o Power BI ao banco de dados
+5º Modelar os dados
+6º Planejar o Relatório
+7º Criar o relatório
+8º Conectar o PowerBI ao Serviço WEB
+9º Publicar o Relatório
+
+>>> Programas Utilizados <<< --------------------------------------------
+#PostgreeSQL = Criação do Banco de dados
+#Microsoft Excel = Preparação da Planilha
+#Sublime = Edição de Scripts
+#Notepad++ = Edição de Scripts
+#Azure Data Studio = Acessar ao Banco de Dados (SGBD)
+#Power BI = Modelagem de Dados Criação do Relatório
+#Google Chrome = Acessar o Serviço Web do Power BI
+
+>>> Habilidades <<< --------------------------------------------
+
+
+
+
+>>> Competências <<< --------------------------------------------
+
+
+
+
+>>> Insights <<< --------------------------------------------
+
+-O que os usuários estão achando do aplicativo?
+-O que mais estão gostando?
+-O que não estão gostando?
+-O que ou onde podemos melhorar?
+-Comparação do Brasil com EUA
+
+
+
+
+
+
+
+
+
+
+
